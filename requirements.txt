@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+opencv-python
+scikit-learn
+imageio
+imageio-ffmpeg
+pillow
